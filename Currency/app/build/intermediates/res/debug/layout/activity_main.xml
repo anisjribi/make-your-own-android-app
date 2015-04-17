@@ -1,0 +1,11 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_history"
+    android:name="com.example.anisjr.currency.HistoryFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context="com.example.anisjr.currency.HistoryFragment"
+    tools:layout="@android:layout/list_content" />
+<!-- From: file:/E:/formatage/AndroidStudioProjects/Currency-11-04-03h/Currency16-04-01h/Currency/app/src/main/res/layout/activity_main.xml -->
