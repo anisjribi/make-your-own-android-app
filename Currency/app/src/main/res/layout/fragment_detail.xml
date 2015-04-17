@@ -1,0 +1,78 @@
+<!-- Master layout. -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Header: Day, Date -->
+
+
+        <TextView
+            android:id="@+id/detail_date_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/detail_currencyFrom_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:id="@+id/detail_currencyTO_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                     />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/detail_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_launcher" />
+                <TextView
+
+                    android:layout_width="144dp"
+                    android:layout_height="wrap_content"
+                    android:text="reliable exchange rates for 168 currencies"
+                     />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- Humidity, wind, pressure -->
+        <TextView
+            android:id="@+id/detail_rate_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             />
+
+
+    </LinearLayout>
+</ScrollView>
