@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Currency</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="pref_currencyFrom_label">From</string>
+    <!-- Key name for storing currencyFrom in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_currencyFrom_key" translatable="false">currencyFrom</string>
+    <string name="pref_currencyFrom_default" translatable="false">"USD"</string>
+
+
+    <string name="sync_account_type">currency.example.com</string>
+    <string name="content_authority">com.example.anisjr.currency</string>
+</resources>
