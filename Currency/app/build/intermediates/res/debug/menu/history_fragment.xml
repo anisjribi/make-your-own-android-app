@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        app:showAsAction="never" />
+</menu><!-- From: file:/E:/formatage/AndroidStudioProjects/Currency-11-04-03h/Currency16-04-01h/Currency/app/src/main/res/menu/history_fragment.xml -->
