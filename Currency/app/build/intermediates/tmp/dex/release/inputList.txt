@@ -1,0 +1,5 @@
+C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\classes\release
+C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-4036fae174acacf48e82151958cbc8da880aa174.jar
+C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3a1d06fbe34c2bfb6aa8a884aa14dc967a81bd1d.jar
+C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\classes-fcc03f9536f320b0c60b49a6ed630a9cea552a0e.jar
+C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\classes-263903bb66423a8029273120eb40fd5ac4021a9a.jar
