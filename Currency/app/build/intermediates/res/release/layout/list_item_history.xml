@@ -8,42 +8,50 @@
        android:padding="16dp"
        xmlns:android="http://schemas.android.com/apk/res/android">
 
-
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    <ImageView
+        android:id="@+id/list_item_icon"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/list_item_date_textview" />
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher"/>
 
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/list_item_date_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Today"/>
+
+        <TextView
+            android:id="@+id/list_item_historyRate_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.95549"/>
+
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:text=" _ " />
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/list_item_currencyFrom_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EUR"/>
+
+        <TextView
+            android:id="@+id/list_item_currencyTo_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TND"/>
+    </LinearLayout>
 
 
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/list_item_currencyFrom_textview" />
-
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:text="/" />
-
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/list_item_currencyTo_textview" />
-
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:text=" _ " />
-
-    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/list_item_historyRate_textview" />
-
-
-</LinearLayout><!-- From: file:/C:/Users/anisjr/AndroidStudioProjects/Currency/app/src/main/res/layout/list_item_history.xml -->
+</LinearLayout><!-- From: file:/C:/Users/anisjr/Documents/GitHub/make-your-own-android-app/Currency/app/src/main/res/layout/list_item_history.xml -->

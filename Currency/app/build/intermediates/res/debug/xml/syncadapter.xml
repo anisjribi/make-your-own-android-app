@@ -6,4 +6,4 @@
     android:userVisible="false"
     android:supportsUploading="false"
     android:allowParallelSyncs="false"
-    android:isAlwaysSyncable="true" /><!-- From: file:/E:/formatage/AndroidStudioProjects/Currency-11-04-03h/Currency16-04-01h/Currency/app/src/main/res/xml/syncadapter.xml -->
+    android:isAlwaysSyncable="true" /><!-- From: file:/C:/Users/anisjr/Documents/GitHub/make-your-own-android-app/Currency/app/src/main/res/xml/syncadapter.xml -->

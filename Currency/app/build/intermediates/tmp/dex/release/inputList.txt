@@ -1,5 +1,5 @@
-C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\classes\release
-C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-4036fae174acacf48e82151958cbc8da880aa174.jar
-C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-3a1d06fbe34c2bfb6aa8a884aa14dc967a81bd1d.jar
-C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\classes-fcc03f9536f320b0c60b49a6ed630a9cea552a0e.jar
-C:\Users\anisjr\AndroidStudioProjects\Currency\app\build\intermediates\pre-dexed\release\classes-263903bb66423a8029273120eb40fd5ac4021a9a.jar
+C:\Users\anisjr\Documents\GitHub\make-your-own-android-app\Currency\app\build\intermediates\classes\release
+C:\Users\anisjr\Documents\GitHub\make-your-own-android-app\Currency\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-4036fae174acacf48e82151958cbc8da880aa174.jar
+C:\Users\anisjr\Documents\GitHub\make-your-own-android-app\Currency\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-2fa8cbbe885a0cd8e1fa7f035ace86b103d9ebf6.jar
+C:\Users\anisjr\Documents\GitHub\make-your-own-android-app\Currency\app\build\intermediates\pre-dexed\release\classes-fc92527241b6e859ed2b63fafb8fd6454b8c51f6.jar
+C:\Users\anisjr\Documents\GitHub\make-your-own-android-app\Currency\app\build\intermediates\pre-dexed\release\classes-b750754b66e7d2a0aa01436e8045d3b35ffcc009.jar

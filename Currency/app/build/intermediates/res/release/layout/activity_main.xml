@@ -1,5 +1,11 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/container"
-    android:layout_width="match_parent" android:layout_height="match_parent"
-    tools:context=".MainActivity" tools:ignore="MergeRootFrame" />
-<!-- From: file:/C:/Users/anisjr/AndroidStudioProjects/Currency/app/src/main/res/layout/activity_main.xml -->
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_history"
+    android:name="com.example.anisjr.currency.HistoryFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context="com.example.anisjr.currency.HistoryFragment"
+    tools:layout="@android:layout/list_content" />
+<!-- From: file:/C:/Users/anisjr/Documents/GitHub/make-your-own-android-app/Currency/app/src/main/res/layout/activity_main.xml -->
